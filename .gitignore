@@ -1,0 +1,15 @@
+# Python dependencies and environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Local model
+*.task
+# (Wait, maybe the user wants to push hand_landmarker.task if it's already there? No, it's better to let them download it automatically as per main.py. But let's check its size first, it was 7MB which is fine for Git, but standard practice is to not push models if they are downloadable. However, I'll include it if it's small enough and easier for the user's first deployment, but usually better to ignore).
+# Actually, the user said "deploy semua file nya tampa ada yang tertinggal", so I SHOULD include the model if I can. 7MB is fine.
