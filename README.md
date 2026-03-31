@@ -1,6 +1,7 @@
 # AI Virtual Mouse Control
 
 Proyek ini adalah aplikasi kontrol mouse virtual menggunakan kecerdasan buatan (AI) berbasis pengenalan tangan. Aplikasi ini memungkinkan pengguna untuk menggerakkan kursor mouse dan melakukan klik hanya dengan menggunakan gerakan tangan di depan webcam.
+<img width="1201" height="613" alt="Cuplikan layar 2026-03-31 095949" src="https://github.com/user-attachments/assets/8b3a8854-fb72-4a57-82cb-4c820bdbd4f8" />
 
 ## Fitur
 - **Kontrol Kursor**: Gerakkan kursor mouse dengan menggerakkan jari telunjuk Anda.
